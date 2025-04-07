@@ -33,7 +33,7 @@
 |--------|-------------|-------|
 | [NBULA](#) | 🚀 MLOps pipeline for agent deployment | Python, FastAPI, Docker |
 | [Quantum Tunneling Sim](#) | 🎓 Visual + data analysis | Python, Jupyter |
-| [Nxus Engine Demo](#) | ⚙️ High-performance data flows | Python, Kafka |
+| [Nxus Engine](#) | ⚙️ High-performance data flows | Python, Kafka |
 | [TS-Firebase Starter](#) | 📦 Clean boilerplate | TS, Firebase, Vitest |
 
 ---
