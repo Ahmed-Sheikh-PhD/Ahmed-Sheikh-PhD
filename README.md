@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Ahmed Elsheikh
 
 🚀 Building the future of AI-native productivity tools at CNTXT  
-🧪 PhD in Quantum Mechanics • 🇪🇬 Alexandria-native • 🇦🇪 UAE-based  
-⚙️ Product Engineer • Researcher • Time Hacker
+🧪 PhD in Quantum Mechanics • 🍌 Liberlander • 🇪🇺 EMEA
+⚙️ Product & Program • Researcher • Growth Hacker
 
 ---
 
