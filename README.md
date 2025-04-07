@@ -13,7 +13,7 @@
 - ⚡ **NXUS / NXTRA** – Data engines & pipeline orchestration at scale
 - 👨🏻‍💻 **TestAI** – Forget about manual testing for your AI
 - 🧬 **Quantum Research** – Simulations + academic deep dives (ask me about tunneling 🤓)
-- 
+- 📀 **ScaleAI** - Get complete quality data life cycle
 
 ---
 
